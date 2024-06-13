@@ -12,7 +12,7 @@ Machine learning is increasingly used for intrusion detection in IoT networks. T
 
 # Requirements and Infrastructure: 
 
-Wireshark and Python 3.10 were used to create the application files. Before running the files, it must be ensured that [Wireshark](https://www.wireshark.org/), [Python 3.6+](https://www.python.org/downloads/) and the following libraries are installed.
+Wireshark and Python 3.10 were used to create the application files. Before running the files, it must be ensured that [Wireshark](https://www.wireshark.org/), [Python 3.10+](https://www.python.org/downloads/) and the following libraries are installed.
 
 | Library | Task |
 | ------ | ------ |
@@ -21,6 +21,23 @@ Wireshark and Python 3.10 were used to create the application files. Before runn
 | [ Pandas  ](https://pandas.pydata.org/pandas-docs/stable/install.html)|  Data Analysis|
 | [ Matplotlib ](https://matplotlib.org/users/installing.html) |Graphics and Visuality|
 | [Seaborn ](https://seaborn.pydata.org/) |Graphics and Visuality|
+
+
+
+## Datasets
+The datasets we used in our study are listed below.
+
+| Dataset | capture year | Number of Devices | Number of Attacks  |
+|---|---|---|---|
+|[IoT-NID](https://ocslab.hksecurity.net/Datasets/iot-network-intrusion-dataset)|2019|2|10|
+|[Kitsune](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune)| 2019|9|9|
+
+
+## IV.A 
+
+
+
+
 
 
 # License
