@@ -96,7 +96,7 @@ In Section `IV.B`, `Fig. 7` shows that some attacks have very low complexity in 
 ### 061.IPF-All-attacks-complexity-vs-FScore
 The last paragraph of Section `IV` discusses the impact of complexity on success and presents `Fig. 8` to support this. This graph is generated using this file.
 
- <img src="./imgs/f8.jpg" alt="drawing" width="400"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./imgs/f8.jpg" alt="drawing" width="400"/>
  
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
